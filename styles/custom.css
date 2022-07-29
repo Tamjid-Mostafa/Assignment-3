@@ -1,0 +1,50 @@
+@media only screen and (max-width: 376px) {
+    .carousel-caption h5{
+        font-size: .7rem;
+    }
+    .carousel-caption a{
+        padding: 3px 7px;
+        font-size: .5rem;
+    }
+    .carousel-caption p{
+        font-size: .5rem;
+    }
+    
+}
+@media only screen and (min-width: 377px) and (max-width: 576px) {
+    .carousel-caption h5{
+        font-size: 1.5rem;
+    }
+    .carousel-caption a{
+        padding: 5px 8px;
+        font-size: .7rem;
+    }
+    .carousel-caption p{
+        font-size: .7rem;
+    }
+}
+@media only screen and (min-width: 577px) and (max-width: 767px) {
+    .carousel-caption h5{
+        font-size: 2rem;
+    }
+    .carousel-caption a{
+        padding: 10px 15px;
+        font-size: 1rem;
+    }
+    .carousel-caption p{
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px){
+    .carousel-caption h5{
+        font-size: 3rem;
+    }
+    .carousel-caption a{
+        padding: 10px 15px;
+        font-size: 1.5rem;
+    }
+    .carousel-caption p{
+        font-size: 1.5rem;
+    }
+}
